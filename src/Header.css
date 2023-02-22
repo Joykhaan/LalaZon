@@ -37,6 +37,11 @@
     font-size: 13px;
     font-weight: 800;
 }
+.header_optionBusket{
+    display: flex;
+    align-items: center;
+    color: white;
+}
 .header_nav{
     display: flex;
     justify-content: space-evenly;
@@ -48,4 +53,8 @@
     /* margin-left: 10px; */
     margin: 0px 5px 0px 5px;
     color: white;
+}
+.header_optionBusket{
+    margin-left: 10px;
+    margin-right: 10px;
 }
